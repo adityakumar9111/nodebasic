@@ -1,0 +1,24 @@
+{
+  "name": "basicnode",
+  "version": "1.0.0",
+  "description": "nodelearn",
+  "main": "app.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "author": "aditya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "errorhandler": "^1.5.0",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "jade": "^1.11.0",
+    "json": "^9.0.6",
+    "logger": "0.0.1",
+    "method-override": "^2.3.9",
+    "nano": "^6.4.2",
+    "serve-favicon": "^2.4.4",
+    "url": "^0.11.0"
+  }
+}
